@@ -1,1 +1,1 @@
-"pip install -m requiremets.txt" 
+"pip install -m requirements.txt" 
