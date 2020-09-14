@@ -1,1 +1,1 @@
-bot: python3 mail.py
+bot: python3 main.py
